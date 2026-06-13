@@ -15,9 +15,7 @@ A 3D coffee mug scene built using C plus plus and OpenGL with lighting, textures
 **CS 360 Focus Android App**
 An Android weight tracking app built in Java with SQLite database storage and SMS notifications. Enhanced with sorting and filtering algorithms using SQL ORDER BY and BETWEEN clauses.
 
-[View Original Code](Focus.zip) | [View Enhanced Code](Focus Enhanced.zip) | [View Narrative](Ebony Jones Milestone3.docx) | [View Project](https://github.com/ebonyjones12/CS360-Focus-Weight-Tracker)
-An Android weight tracking app built in Java with SQLite database storage and SMS notifications.
-[View Project](https://github.com/ebonyjones12/CS360-Focus-Weight-Tracker)
+[View Original Code](Focus.zip) | [View Enhanced Code](Focus-Enhanced.zip) | [View Narrative](Ebony-Jones-Milestone3.docx) | [View Project](https://github.com/ebonyjones12/CS360-Focus-Weight-Tracker)
 
 ### Databases
 **CS 340 Python CRUD Module**
