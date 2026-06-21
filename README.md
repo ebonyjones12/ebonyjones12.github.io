@@ -4,7 +4,7 @@
 **CS 330 OpenGL Coffee Mug Scene**
 A 3D coffee mug scene built using C plus plus and OpenGL with lighting, textures, and camera controls. Enhanced with error handling for texture loading and a null check after window creation.
 
-[View Original/Enhanced Code](7-1_FinalProjectMilestones%2014) | [View Enhanced Code](EbonyJones%20Milestone2%20(1).zip) | [View Narrative](Ebony%20Jones%20Milestone3.docx)
+[View Original Code](7-1_FinalProjectMilestones%2014) | [View Enhanced Code](EbonyJones%20Milestone2%20(1)%20(1).zip) | [View Narrative](Ebony%20Jones%20Milestone2.docx)
 
 ### Algorithms and Data Structures
 **CS 360 Focus Android App**
